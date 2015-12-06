@@ -1,2 +1,2 @@
-# laiproject
-Laioffer Intern Project
+# restaurant
+Laioffer Project Class. A restaurant recommendation app.
